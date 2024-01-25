@@ -1,0 +1,9 @@
+mov 69, AX
+mov 10, BH
+mov AX, CH
+minus
+mov EAX, AH
+add
+mov EAX, AX
+mov AH, CM
+mov 5, DM
