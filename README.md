@@ -21,3 +21,5 @@ wyjście pin 1, adress, 1010 (out)
 
 instrukcje w sram nr:1  pierwsze 4bit - rejestry out, drugie 4bit rejestry in
 intrukcje w sram nr: 0 tylko pierwsze 4bit (literały)
+
+![image](https://github.com/michal95pl/processor/assets/85219287/f1e321aa-fb1c-429b-9b37-975bc1a37cd3)
